@@ -1,0 +1,6 @@
+RTSP_URL=rtsp://admin:ONYTPY@nekotrang.duckdns.org:554/onvif2
+DB_SERVER=nekotrang.duckdns.org
+DB_PORT=1433
+DB_USERNAME=sa
+DB_PASSWORD=NekoTrang16091998
+DB_DATABASE=HTNDBSX1

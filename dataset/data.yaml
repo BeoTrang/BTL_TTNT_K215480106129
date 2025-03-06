@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Xemay']
+
+roboflow:
+  workspace: bienso-1jrbm
+  project: bienso-7lnqx
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/bienso-1jrbm/bienso-7lnqx/dataset/8
